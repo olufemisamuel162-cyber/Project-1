@@ -11,9 +11,12 @@ A simple website for a web design business built with HTML and CSS.
 - Social media icons
 
 ## Files
-- `index.html`
-- `css/style.css`
-- `img/`
+-index.html
+-about.html
+-service.html
+-faq.html
+-css/style.css
+-img/
 
 ## How to Run
 Open `index.html` in any browser.
